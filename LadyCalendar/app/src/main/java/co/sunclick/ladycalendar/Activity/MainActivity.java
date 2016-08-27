@@ -1,7 +1,9 @@
-package co.sunclick.ladycalendar;
+package co.sunclick.ladycalendar.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import co.sunclick.ladycalendar.R;
 
 public class MainActivity extends AppCompatActivity {
 
